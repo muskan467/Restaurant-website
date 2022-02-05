@@ -1,6 +1,6 @@
 # Restaurant website
 View:
-https://muskan467.github.io/Coursera-test5/
+https://muskan467.github.io/Coursera-test5/index.html
 
 # Screenshots:
 ![Screenshot (64)](https://user-images.githubusercontent.com/65494453/136366380-251858cb-7f5b-4d60-840c-f6e828481893.png)
